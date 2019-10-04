@@ -2,7 +2,7 @@
 
 This is a React.js app that reveals come cool facts about fruits onClick! 
 
-**Concepts Explored:**
+**Concepts Explored:** 
 - Storing objects & arrays in state
 - Rendering content conditionally
 
